@@ -6,12 +6,20 @@ import requests
 import json
 
 print()
+print()
+print()
 print('OLA LAMER, USE ESSE PROGRAMA PARA HACKEAR CEPS E LOCALIZACOES PESSOAIS PARA O BEM, EU SOU O HACKER WHITE HAT, EU SOU UM CARA QUE E HEROI POR DIVERSAO. ')
+print()
+print()
 print()
 print('USE ESSE PROGRAMA E COPIE E COLE NA MAQUINA OU NUM ANDROID OU PC PARA KALI LINUX, E TERMUX.')
 print()
+print()
+print()
 print(' EU SOU UM HACKER ')      
-print()      
+print()
+print()
+print()
     
 Hacker_cep = input('Digite o CEP Para HACKEAR: ')
 if len(Hacker_cep) != 8:
